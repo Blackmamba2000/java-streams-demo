@@ -127,7 +127,8 @@ public class Main {
                 new Person("Sandra Williams", 57, Gender.FEMALE),
                 new Person("Mark Drake", 59, Gender.MALE),
                 new Person("Mike King", 30, Gender.MALE),
-                new Person("Juliann Green", 36, Gender.FEMALE)
+                new Person("Juliann Green", 36, Gender.FEMALE),
+                new Person("LaToya Green", 38, Gender.FEMALE)
         );
     }
 }
